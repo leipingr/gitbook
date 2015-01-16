@@ -21,7 +21,6 @@
 |uchatSlave	    |172.18.63.75	|6379	    |从实例Slave     |
 |uchatSentinel	|172.18.63.110	|26379	    |监控服务Sentinel|
 
-*username:* **uchatredis**
 
 ### 产品安装
 
