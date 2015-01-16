@@ -1,6 +1,3 @@
-> 中国银联 | 技术开发中心 | 公共组件室 ：[雷平](mailto:leiping@unionpay.com)
-
-
 # 关于 Redis
 -----------------
 
